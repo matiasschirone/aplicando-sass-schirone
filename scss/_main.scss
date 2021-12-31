@@ -1,0 +1,15 @@
+.text{
+    margin: 20px;
+    padding: 10px;
+    color: $c_claro;
+    font-family: $ff_letra;
+    font-style: oblique;
+    line-height: 2;
+    background-color: $bg_claro;
+    h2{
+        font-size: 1.5;
+        font-family: $ff_letra;
+        color: $c_claro; 
+        text-align: center;
+    }
+}

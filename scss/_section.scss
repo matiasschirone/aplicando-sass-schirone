@@ -1,0 +1,22 @@
+.caja{
+    margin: auto;
+    padding: 10px;
+    color: beige;
+    font-size: 1rem;
+    font-family: $ff_letra;
+    font-style: oblique;
+    line-height: 2;
+    background-color: darkblue;
+    color: darkgrey;
+    h2{
+        font-size: 1.5;
+        font-family: $ff_letra;
+        color: $ff_letra; 
+        text-align: center;
+    }
+}
+.img{
+    margin: auto;
+    padding: 20px;
+    background-color: $c_rf;
+}

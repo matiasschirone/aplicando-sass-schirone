@@ -1,0 +1,20 @@
+.header{
+    background-color: $bg_oscuro;
+    color: $c_claro;
+    padding: 20px;
+    border-radius: 2%;
+   h1{
+    color:$c_celest;
+    text-align: center;
+   }
+   ul{
+      text-align: right;
+   }
+   li{
+    display: inline-block;
+    color: $c_claro;
+   }
+   a{
+    color: $c_claro;
+   } 
+}
